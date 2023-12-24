@@ -1,0 +1,16 @@
+current directory: M:/rails_memoapt/memo-app/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+C:/Ruby27-x64/bin/ruby.exe -I C:/Ruby27-x64/lib/ruby/2.7.0 -r ./siteconf20231224-13220-qxrvf7.rb extconf.rb
+creating Makefile
+
+current directory: M:/rails_memoapt/memo-app/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: M:/rails_memoapt/memo-app/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+generating cparse-x64-mingw32.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: M:/rails_memoapt/memo-app/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20231224-13220-1mfpzsk/racc
